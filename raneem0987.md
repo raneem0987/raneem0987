@@ -1,18 +1,3 @@
-## Hi there 👋 I'm raneem sameh
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently training in school summer training professtional training in Web development and UI.
-- 🌱 I’m currently learning frontend
-- 👯 I’m looking to collaborate on finding remote front end developer position in good company.
-- 🤔 I’m looking for help with my life
-- 💬 Ask me about Front-end web development.
-- 📫 How to reach me: raneemsameh486@gmail.com
-- 😄 Pronouns: raneem
-- ⚡ Fun fact: I hope to travell but I'm afraid of the plane
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rannem.sameh.5?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rnym3144?igsh=MTl6cGt2cWdtZTFzOQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings) 
 
@@ -23,12 +8,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raneem0987&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raneem0987&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=raneem0987&icon=0&color=6)](https://visitcount.itsvg.in)
-
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raneem0987&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
