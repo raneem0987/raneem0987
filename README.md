@@ -4,10 +4,10 @@
 </h1>
 
 - 🔭 I’m currently training in school summer training professtional training in Web development and UI.
-- 🌱 I’m currently learning frontend
-- 👯 I’m looking to collaborate on finding remote front end developer position in good company.
+- 🌱 I’m currently learning DataAnalysis
+- 👯 I’m looking to collaborate on finding remote data analyst position in good company.
 - 🤔 I’m looking for help with my life
-- 💬 Ask me about Front-end web development.
+- 💬 Ask me about Data Analysis.
 - 📫 How to reach me: raneemsameh486@gmail.com
 - 😄 Pronouns: raneem
 - ⚡ Fun fact: I hope to travell but I'm afraid of the plane
